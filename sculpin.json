@@ -1,0 +1,13 @@
+{
+    "name": "BlackIkeEagle's blog",
+    "description": "BlackIkeEagle's sculpin based blog",
+    "type": "blog",
+    "license": "MIT",
+	"authors": [
+		{
+			"name": "Ike devolder",
+			"email": "ike.devolder@gmail.com",
+			"homepage": "http://herecura.eu"
+		}
+	]
+}
